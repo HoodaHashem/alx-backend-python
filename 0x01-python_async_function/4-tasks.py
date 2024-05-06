@@ -4,8 +4,6 @@ Create a task and return it.
 '''
 
 from typing import List
-import asyncio
-import random
 
 task_wait_random = __import__('3-tasks').task_wait_random
 

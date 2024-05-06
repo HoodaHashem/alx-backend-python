@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' 
+'''
 Create a task and return it.
 '''
 

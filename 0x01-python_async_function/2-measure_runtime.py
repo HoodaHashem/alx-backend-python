@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' 
+'''
 Measure the runtime for `wait_n` given `n` and `max_delay`.
 '''
 
